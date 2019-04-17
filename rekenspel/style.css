@@ -1,0 +1,47 @@
+
+body {
+  background-color: #ffffff;
+
+}
+
+#game {
+  border: 3px solid black;
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+  text-align: center;
+  padding-top: 25px;
+  background-color: white;
+  width: 15%;
+}
+
+#gameTitle {
+  border: 3px solid black;
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-size: 55px;
+  font-weight: bold;
+  padding: 10px;
+  width: 255px;
+  text-align: center;
+  background-color: white;
+
+}
+
+#feedback {
+  width: 200px;
+  height: 200px;
+  padding-top: 25px;
+}
+
+#myAssignment {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#myAnswer {
+  height: 20px;
+}
